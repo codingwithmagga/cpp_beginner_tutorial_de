@@ -54,6 +54,12 @@ git clone https://github.com/codingwithmagga/cpp_beginner_tutorial_de
 
 Nun habt ihr alle Dateien auf eurem Rechner. 
 
+Falls in der Zwischenzeit neue Dateien hinzugekommen sind kannst du deinen Ordner mit dem folgenden Befehl aktualisieren.
+
+```sh
+git pull
+```
+
 ### Installation cmake, make, gcc, ...
 
 #### Ubuntu 16.04
