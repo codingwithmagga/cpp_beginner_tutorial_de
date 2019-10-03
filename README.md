@@ -102,4 +102,4 @@ folgt, ist aber im ersten Tutorialvideo auf YouTube dargestellt
 
 ### Sponsoring
 
-Diese Seite befindet sich derzeit noch im Aufbau. Falls ihr mich allerdings jetzt schon mit einer kleinen Spende unterstützen wollt könnt ihr das ganz oben auf dieser Seite über den Button **Sponsor** via PayPal.me tun. Dies ist absolut freiwillig, der komplette Content steht allen **kostenlos** (hier bei github, bzw. bei YouTube) zur Verfügung. 
+Diese Seite, sowie die Videoreihe auf YouTube, befinden sich derzeit noch im Aufbau. Falls ihr mich allerdings jetzt schon mit einer kleinen Spende unterstützen wollt könnt ihr das gerne ganz oben auf dieser Seite über den Button **Sponsor** via PayPal.me tun. Dies ist absolut freiwillig, der komplette Content steht allen **kostenlos** (hier bei github, bzw. bei YouTube) zur Verfügung. 
