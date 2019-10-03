@@ -74,6 +74,10 @@ sudo apt-get install build-essentials
 
 siehe https://cmake.org/download/
 
+zusätzlich für Mac: https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1164/handouts/qt-creator-mac.html
+
+zusätzlich für Windows: Installiere MinGw während der QtCreator Installation, zu sehen hier https://www.ics.com/blog/getting-started-qt-and-qt-creator-windows
+
 ### Installation clang-format
 
 #### Ubuntu 16.04
