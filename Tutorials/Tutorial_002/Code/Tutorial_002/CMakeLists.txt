@@ -1,4 +1,4 @@
 cmake_minimum_required(VERSION 2.8)
 
-project(hello_world)
+project(Tutorial_002)
 add_executable(${PROJECT_NAME} "main.cpp")
