@@ -60,19 +60,31 @@ Falls in der Zwischenzeit neue Dateien hinzugekommen sind kannst du deinen Ordne
 git pull
 ```
 
-### Installation cmake, make, gcc, ...
+### Installation cmake
 
 #### Ubuntu 16.04
 
-Zur Installation der build tools (cmake, make, gcc, ...) den folgenden Befehl im Terminal ( `Strg` + `Alt` + `T` ) ausführen.
+Zur Installation von cmake den folgenden Befehl im Terminal ( `Strg` + `Alt` + `T` ) ausführen.
+
+```sh
+sudo apt-get install cmake
+```
+
+#### Windows & Mac
+
+siehe https://cmake.org/download/
+
+### Installation make, gcc, ...
+
+#### Ubuntu 16.04
+
+Zur Installation der build tools (make, gcc, ...) den folgenden Befehl im Terminal ( `Strg` + `Alt` + `T` ) ausführen.
 
 ```sh
 sudo apt-get install build-essentials
 ```
 
 #### Windows & Mac
-
-siehe https://cmake.org/download/
 
 zusätzlich für Mac: https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1164/handouts/qt-creator-mac.html
 
