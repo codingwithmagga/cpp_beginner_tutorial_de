@@ -116,6 +116,7 @@ folgt, ist aber im ersten Tutorialvideo auf YouTube dargestellt
 
 ### Nützliche Links
 
+* [C++ Standard Bibliothek (Schnittstelle)](https://de.cppreference.com/w/cpp/header)
 * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 * [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
 * [IsoCPP](https://isocpp.org/) (insbesondere die Core Guidelines)
