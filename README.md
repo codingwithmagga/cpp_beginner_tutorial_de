@@ -122,6 +122,7 @@ folgt, ist aber im ersten Tutorialvideo auf YouTube dargestellt
 * [IsoCPP](https://isocpp.org/) (insbesondere die Core Guidelines)
 * [Catch2](https://github.com/catchorg/Catch2)
 * [google test](https://github.com/google/googletest)
+* [Operatoren](https://de.wikibooks.org/wiki/C%2B%2B-Programmierung:_Operatoren)
 
 <!---
 ### Sponsoring
