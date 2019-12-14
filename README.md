@@ -123,6 +123,7 @@ folgt, ist aber im ersten Tutorialvideo auf YouTube dargestellt
 * [Catch2](https://github.com/catchorg/Catch2)
 * [google test](https://github.com/google/googletest)
 * [Operatoren](https://de.wikibooks.org/wiki/C%2B%2B-Programmierung:_Operatoren)
+* [Ausgabe-Manipulatoren](https://de.wikibooks.org/wiki/C%2B%2B-Programmierung:_Einfache_Ein-_und_Ausgabe)
 
 <!---
 ### Sponsoring
